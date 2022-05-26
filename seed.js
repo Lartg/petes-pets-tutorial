@@ -1,5 +1,5 @@
 module.exports = {
-	"undefined": "localhost/local",
-	"dev": "localhost/local",
-	"prod": "localhost/local"
+	"undefined": "127.0.0.1/local",
+	"dev": "127.0.0.1/local",
+	"prod": "127.0.0.1/local"
 }
